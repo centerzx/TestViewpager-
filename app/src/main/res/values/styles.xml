@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppNoActionBar" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--无导航栏 -->
+        <item name="windowActionBar">false</item>
+        <!--无标题栏 -->
+        <item name="windowNoTitle">true</item>
+    </style>
+    
+</resources>
